@@ -31,7 +31,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
-	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
+	// _ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
